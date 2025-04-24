@@ -71,7 +71,8 @@ The Power BI dashboard provides a visual representation of: ✔ Revenue Trends �
 ✔ Install Forecasting – Predictive trends for business insights
 ✔ Market Share Analysis – Evaluating free vs. paid app strategies
 
-<img width="665" alt="image" src="https://github.com/user-attachments/assets/b7178073-578d-4636-a3b9-21386ddfade8" />
+![image](https://github.com/user-attachments/assets/bdaafec3-9599-44b3-aac6-f390b5021393)
+
 
 
 📌 Business Recommendations
